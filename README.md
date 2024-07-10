@@ -33,8 +33,8 @@
   </a>
 <br>
 <br>
-<a target="_blank" rel="noopener noreferrer" href="https://giffiles.alphacoders.com/209/209474.gif">
-  <img align="right" height="250" width="400" alt="GIF" src="https://giffiles.alphacoders.com/209/209474.gif" style="max-width:100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://technocometsolutions.com/wp-content/uploads/2020/02/our-servies.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://technocometsolutions.com/wp-content/uploads/2020/02/our-servies.gif" style="max-width:100%;">
 </a>
 
 <ul>
